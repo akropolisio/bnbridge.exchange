@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bnbridge.exchange/precache-manifest.7dfbd9dfa15ba9dad8bae1a78f4fe05d.js"
+  "/bnbridge.exchange/precache-manifest.e700685af00d79d65087a658d1fbdc0a.js"
 );
 
 self.addEventListener('message', (event) => {

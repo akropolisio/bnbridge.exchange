@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bnbridge.exchange/static/css/main.3a2591b4.chunk.css",
-    "main.js": "/bnbridge.exchange/static/js/main.8986aeb6.chunk.js",
-    "main.js.map": "/bnbridge.exchange/static/js/main.8986aeb6.chunk.js.map",
+    "main.js": "/bnbridge.exchange/static/js/main.2bbb419c.chunk.js",
+    "main.js.map": "/bnbridge.exchange/static/js/main.2bbb419c.chunk.js.map",
     "runtime~main.js": "/bnbridge.exchange/static/js/runtime~main.0e939c25.js",
     "runtime~main.js.map": "/bnbridge.exchange/static/js/runtime~main.0e939c25.js.map",
     "static/js/2.e060fdbc.chunk.js": "/bnbridge.exchange/static/js/2.e060fdbc.chunk.js",
     "static/js/2.e060fdbc.chunk.js.map": "/bnbridge.exchange/static/js/2.e060fdbc.chunk.js.map",
     "index.html": "/bnbridge.exchange/index.html",
-    "precache-manifest.7dfbd9dfa15ba9dad8bae1a78f4fe05d.js": "/bnbridge.exchange/precache-manifest.7dfbd9dfa15ba9dad8bae1a78f4fe05d.js",
+    "precache-manifest.e700685af00d79d65087a658d1fbdc0a.js": "/bnbridge.exchange/precache-manifest.e700685af00d79d65087a658d1fbdc0a.js",
     "service-worker.js": "/bnbridge.exchange/service-worker.js",
     "static/css/main.3a2591b4.chunk.css.map": "/bnbridge.exchange/static/css/main.3a2591b4.chunk.css.map",
     "static/media/Ethereum-logo.png": "/bnbridge.exchange/static/media/Ethereum-logo.888df991.png"
