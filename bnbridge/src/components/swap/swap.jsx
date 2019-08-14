@@ -715,7 +715,7 @@ class Swap extends Component {
             />
           </div>
           <div className={ classes.iconName }>
-            <Typography  variant='h5'>{ first ==='Binance' ? 'BEP2' : 'ERC20' }</Typography>
+            <Typography  variant='h5'>{ first ==='Binance' ? 'BEP2' : 'AKRO' }</Typography>
           </div>
         </Grid>
         <Grid item xs={ 2 } onClick={ this.onSwapDirectionClick } className={ classes.gridClick }>
@@ -730,7 +730,7 @@ class Swap extends Component {
             />
           </div>
           <div className={ classes.iconName }>
-            <Typography  variant='h5'>{ second ==='Binance' ? 'BEP2' : 'ERC20' }</Typography>
+            <Typography  variant='h5'>{ second ==='Binance' ? 'BEP2' : 'AKRO' }</Typography>
           </div>
         </Grid>
       </React.Fragment>

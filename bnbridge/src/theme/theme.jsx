@@ -1,20 +1,20 @@
 export const colors = {
   white: "#fff",
   black: '#000',
-  yellow: "#f5bc00",
+  yellow: "#6931b6",
   gray: "#e1e1e1",
   lightGray: "#fafafa",
   lightBlack: "#6a6a6a",
-  darkBlack: "#141414"
+  darkBlack: "#141414",
 };
 
-const bnbridgeTheme =  {
+const bnbridgeTheme = {
   typography: {
     fontFamily: ['Lato', 'Roboto', 'Open Sans', 'sans-serif'].join(","),
     lineHeight: 1.45,
     useNextVariants: true,
     h6: {
-      fontFamily: ['Source Sans Pro','sans-serif'].join(","),
+      fontFamily: ['Source Sans Pro', 'sans-serif'].join(","),
       fontSize: '0.8rem',
       color: colors.darkBlack,
       fontWeight: 600,
@@ -37,11 +37,6 @@ const bnbridgeTheme =  {
         padding: '14px'
       }
     },
-    MuiPrivateNotchedOutline: {
-      root: {
-        borderRadius: '0px'
-      }
-    },
     MuiButton: {
       label: {
         fontSize: '0.7rem'
@@ -49,7 +44,7 @@ const bnbridgeTheme =  {
     },
     MuiTab: {
       label: {
-        fontFamily: ['Source Sans Pro','sans-serif'].join(","),
+        fontFamily: ['Source Sans Pro', 'sans-serif'].join(","),
         paddingTop: "1rem",
         paddingBottom: "1rem",
         letterSpacing: "0.06em",
@@ -72,7 +67,7 @@ const bnbridgeTheme =  {
     secondary: {
       main: colors.lightBlack
     },
-    background:{
+    background: {
       paper: colors.white,
       default: colors.white
     },

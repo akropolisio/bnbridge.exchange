@@ -24,11 +24,14 @@ const store = Store.store
 
 const styles = theme => ({
   root: {
-    minHeight: '450px'
+    minHeight: '450px',
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
   },
   tabs: {
-    marginTop: '24px',
-    marginBottom: '24px'
+    width: '100%',
+    marginBottom: '24px',
   }
 });
 

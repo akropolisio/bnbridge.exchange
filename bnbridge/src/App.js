@@ -19,7 +19,7 @@ function App() {
         style={{ padding: '7.5rem 0'}}
         container
         justify="center"
-        alignItems="center"
+        alignItems="flex-start"
         direction="row">
         <Grid item align='right'>
           <Instructions />
