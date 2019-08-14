@@ -69,7 +69,7 @@ const bnbridgeTheme = {
     },
     background: {
       paper: colors.white,
-      default: colors.white
+      default: 'transparent',
     },
     text: {
       primary: colors.lightBlack,
