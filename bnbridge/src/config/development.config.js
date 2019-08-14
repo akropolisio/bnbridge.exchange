@@ -1,5 +1,5 @@
 const config = {
-  apiUrl: "",
+  apiUrl: "http://localhost:8000",
   apiToken: "",
   explorerURL: "https://testnet-explorer.binance.org/tx/",
   bnbAddressLength: 43,
