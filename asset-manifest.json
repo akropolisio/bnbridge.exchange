@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a2591b4.chunk.css",
-    "main.js": "/static/js/main.e779e00e.chunk.js",
-    "main.js.map": "/static/js/main.e779e00e.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.e060fdbc.chunk.js": "/static/js/2.e060fdbc.chunk.js",
-    "static/js/2.e060fdbc.chunk.js.map": "/static/js/2.e060fdbc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cd1505865b705502922c653b04015d1f.js": "/precache-manifest.cd1505865b705502922c653b04015d1f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3a2591b4.chunk.css.map": "/static/css/main.3a2591b4.chunk.css.map",
-    "static/media/Ethereum-logo.png": "/static/media/Ethereum-logo.888df991.png"
+    "main.css": "/bnbridge.exchange/static/css/main.3a2591b4.chunk.css",
+    "main.js": "/bnbridge.exchange/static/js/main.8986aeb6.chunk.js",
+    "main.js.map": "/bnbridge.exchange/static/js/main.8986aeb6.chunk.js.map",
+    "runtime~main.js": "/bnbridge.exchange/static/js/runtime~main.0e939c25.js",
+    "runtime~main.js.map": "/bnbridge.exchange/static/js/runtime~main.0e939c25.js.map",
+    "static/js/2.e060fdbc.chunk.js": "/bnbridge.exchange/static/js/2.e060fdbc.chunk.js",
+    "static/js/2.e060fdbc.chunk.js.map": "/bnbridge.exchange/static/js/2.e060fdbc.chunk.js.map",
+    "index.html": "/bnbridge.exchange/index.html",
+    "precache-manifest.7dfbd9dfa15ba9dad8bae1a78f4fe05d.js": "/bnbridge.exchange/precache-manifest.7dfbd9dfa15ba9dad8bae1a78f4fe05d.js",
+    "service-worker.js": "/bnbridge.exchange/service-worker.js",
+    "static/css/main.3a2591b4.chunk.css.map": "/bnbridge.exchange/static/css/main.3a2591b4.chunk.css.map",
+    "static/media/Ethereum-logo.png": "/bnbridge.exchange/static/media/Ethereum-logo.888df991.png"
   }
 }
